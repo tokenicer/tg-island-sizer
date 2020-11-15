@@ -1,0 +1,14 @@
+{
+  "name": "tg_maps",
+  "version": "1.0.0",
+  "description": "TG CIS Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abe Pineda-Binas",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
